@@ -8,7 +8,6 @@ public class Example2 {
 		System.out.println("ey zindagi");
 
 
-		
 	}
 
 }
