@@ -4,7 +4,7 @@ public class Example2 {
 
 	public static void main(String[] args) {
 
-		System.out.println("dear Zindagi");
+		System.out.println("koi mil gaya");
 
 		
 	}
